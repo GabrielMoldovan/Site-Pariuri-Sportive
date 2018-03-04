@@ -5,3 +5,4 @@
 # LeagueOfOOP
 # MiniCAD
 # MiniCAD
+# Identificarea-numerelor-prime
