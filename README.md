@@ -3,3 +3,4 @@
 # Captcha-reader
 # Pac-Man-minigame
 # LeagueOfOOP
+# MiniCAD
